@@ -1,4 +1,4 @@
-# sentiment-analysis-of-tweets
+# Sentiment-analysis-of-tweets
 Analyzing the tweets by categorizing them into positive and negative tweet.
 
  ## Data (raw)
