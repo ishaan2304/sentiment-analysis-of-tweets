@@ -1,5 +1,6 @@
 # Sentiment-analysis-of-tweets
-Analyzing the tweets by categorizing them into positive and negative tweet
+Analyzing the tweets by categorizing them into positive and negative tweet.
+
 
  ## Twitter Dataset 
  ```bash
